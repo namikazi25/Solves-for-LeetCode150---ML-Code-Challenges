@@ -7,11 +7,7 @@ Welcome to my **Coding Solutions Repository**! This collection highlights my app
 ## 📂 Repository Structure
 
 ### 1️⃣ **LeetCode150 Solutions**
-In the `LeetCode150` directory, you'll find Python implementations of solutions to some of the most popular and challenging algorithmic problems. These problems span a variety of essential topics, including but not limited to:
-
-- **Two Sum**: A fundamental problem demonstrating efficient use of hash maps for quick lookups.
-- **Contains Duplicate**: A solution showcasing the use of sets to identify duplicates in linear time.
-- **Valid Anagram**: An implementation that leverages sorting and dictionary comparison for efficient validation.
+In the `LeetCode150` directory, you'll find Python implementations of solutions to some of the most popular and challenging algorithmic problems. These problems span a variety of essential topics.
 
 Each solution prioritizes **readability**, **efficiency**, and adherence to **best practices**.
 
