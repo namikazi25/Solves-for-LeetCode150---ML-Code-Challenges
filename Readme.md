@@ -30,7 +30,7 @@ These challenges are designed to enhance practical understanding and application
    git clone https://github.com/namikazi25/Solves-for-LeetCode150---ML-Code-Challenges.git
    cd Solves-for-LeetCode150---ML-Code-Challenges
 
-2.Navigate to the relevant directory (e.g., `LeetCode150` or `ML Code Challenges (Deep-ML)`) and explore the solution files.
+2. Navigate to the relevant directory (e.g., `LeetCode150` or `ML Code Challenges (Deep-ML)`) and explore the solution files.
 
 Each file includes:
 - **Problem statement**: A description of the problem being addressed.
